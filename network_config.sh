@@ -1,3 +1,5 @@
+#!/bin/bash
+
 function network_config(){
     gang="/"
     clear
